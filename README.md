@@ -40,10 +40,6 @@
 
   ## 🛠️ Usage
 
-### Requirements
-
-The function is written in C language and thus needs the **`gcc` compiler** and some standard **C libraries** to run.
-
 ### Instructions
 
 **1. Compiling the library**
