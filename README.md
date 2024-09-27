@@ -38,9 +38,8 @@
   
   •' '.
 
-  ## 🛠️ Usage
+# 🛠️ Usage
 
-### Instructions
 
 **1. Compiling the library**
 
