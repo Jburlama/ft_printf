@@ -24,16 +24,16 @@
 
 ## manages any combination of the following flags:
 
-  '-';
+  •'-';
   
-  '0';
+  •'0';
   
-  '.';
+  •'.';
   
-  The field minimum width under all conversions;
+  •The field minimum width under all conversions;
   
-  '#';
+  •'#';
   
-  '+';
+  •'+';
   
-  ' '.
+  •' '.
