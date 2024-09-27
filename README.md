@@ -1,2 +1,12 @@
 # ft_printf
-This function mimics the behavior of the printf function and manages any combination of the following flags: '-', '0.', and the field minimum width under all conversions. It also manages all the following flags: '#', '+', and ' '.
+![image](https://github.com/user-attachments/assets/1d8f6b19-2685-49e2-8fed-86e107a09929)
+
+This function mimics the behavior of the printf function.
+manages any combination of the following flags:
+  '-';
+  '0';
+  '.';
+  The field minimum width under all conversions;
+  '#';
+  '+';
+  ' '.
